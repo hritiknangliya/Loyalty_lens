@@ -16,7 +16,7 @@ if uploaded_file:
     host="db.lscvsrndyfyejmyjnydm.supabase.co",
     database="postgres",
     user="postgres",
-    password="$Hritik1210",
+    password="hritiknangliya",
     port=6543,
     sslmode="require"
 
