@@ -17,7 +17,9 @@ if uploaded_file:
     database="postgres",
     user="postgres",
     password="$Hritik1210",
-    port=5432
+    port=6543,
+    sslmode="require"
+
 )
 
         cursor = conn.cursor()
